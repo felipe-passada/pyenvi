@@ -3,7 +3,7 @@ the idea is to automate my environment configuration when installing a new distr
 
 ## Installation
 
-Install dependencies and activate the virtualenv
+Install dependencies and activate the virtualenv.
 
 ```
 source pyenv/venv/bin/activate
